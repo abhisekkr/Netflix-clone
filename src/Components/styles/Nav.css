@@ -1,0 +1,75 @@
+.nav {
+	position: fixed;
+	top: 0;
+	padding: 20px;
+	width: 100%;
+	height: 30px;
+	z-index: 1;
+	/* Animations */
+	transition-timing-function: ease-in;
+	transition: all 0.5s;
+}
+.nav_contents {
+	display: flex;
+}
+.nav_black {
+	background-color: #111;
+}
+.nav_logo {
+	position: fixed;
+	top: 10px;
+	left: 0;
+	width: 80px;
+	object-fit: contain;
+	padding-left: 20px;
+	cursor: pointer;
+}
+
+.nav_avatar {
+	cursor: pointer;
+	position: fixed;
+	right: 20px;
+	width: 30px;
+}
+.nav_body {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav_components {
+	display: flex;
+	margin-left: 100px;
+	cursor: pointer;
+}
+
+.nav_components > p {
+	padding: 5px;
+	margin-left: 10px;
+	color: white;
+	font-weight: 400;
+}
+
+.nav_components > h4 {
+	padding: 5px;
+	margin-left: 10px;
+	color: white;
+	font-weight: 700;
+}
+
+.nav_components :hover {
+	text-decoration: 3px solid underline;
+}
+
+.nav_end {
+	display: flex;
+}
+
+.nav_end > .searchButton {
+	color: #fafafa;
+	margin-right: 100px;
+	border: 1px solid darkgray;
+	border-radius: 50%;
+	padding: 5px;
+	cursor: pointer;
+	font-size: 20px;
+}
