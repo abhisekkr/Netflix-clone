@@ -1,15 +1,37 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netflix Clone made using TMDB API , A React app with REDUX, where we can explore diffrent Movies, Shows and Watch Trailers of Movies .
 
-## Available Scripts
+## Project Overview
+ - Guest Login Email --> abhi@test.com
+ - Guest Login Password --> 123456
+ 
+## Application Links
 
-In the project directory, you can run:
+Deployed URL --> [https://netflix-clone-by-abhisek.netlify.app/](https://netflix-clone-by-abhisek.netlify.app/)
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<b>Frontend</b>: ReactJS
+<br>
+<b>Styling</b>: CSS
+<br>
+<b>Database<b>: Cloud Firestore
+<br>
+<b> Authentication<b>: Firebase
+<br>
+<b>State Management<b>: REDUX
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Overall Functionality 
+- Explore all trending Movies , Shows , Series etc.
+- Serach for Movies 
+- Watch trailer for selected Movie on the app
+  
+## Upcoming Features
+- Functionality of adding Movies to Watchlist
+- Payment Integration for subscription to plans on Plan Screen
+  
+***Glad to see you here! If liked , Do star the repo , THANK YOU !
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@abhisek-kumar&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/abhisek-kumar-a32677191/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@abbhisekk&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/abbhisekk/)
+
